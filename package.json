@@ -8,7 +8,7 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "GamingWelt Dev Team",
+  "author": "GamingWeltDev",
   "license": "GPL-3.0",
   "dependencies": {
     "canvacord": "^5.4.10",
