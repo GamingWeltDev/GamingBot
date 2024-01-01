@@ -1,7 +1,7 @@
 {
   "name": "gamingbot",
   "version": "1.0.0",
-  "description": "Discord Bot",
+  "description": "Node.js-Bot für den Discord Server von GamingWelt",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Zu Faul\" && exit 1",
