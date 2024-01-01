@@ -1,10 +1,10 @@
 {
   "name": "gamingbot",
   "version": "1.0.0",
-  "description": "Discord Botty Bot",
+  "description": "Discord Bot",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Wow is this a test?\" && exit 1",
+    "test": "echo \"Zu Faul\" && exit 1",
     "start": "node ."
   },
   "keywords": [],
