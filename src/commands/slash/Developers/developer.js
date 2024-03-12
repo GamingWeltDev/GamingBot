@@ -73,7 +73,6 @@ module.exports = {
           await interaction.deferReply();
 
           var code = interaction.options.getString("code");
-          await code.replace(new RegExp(process.env.CLIENT_TOKEN, "g"), "VERSTECKT");
           
           try {
             let executedEvalValue = eval(code);
